@@ -9,6 +9,8 @@ import random
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
+st.title("Welcome to Chatbot By Sh!v")
+st.header("Welcome to the chatbot. Please type a message and press Enter to start the conversation.")
 ssl._create_default_https_context = ssl._create_unverified_context
 nltk.data.path.append(os.path.abspath("nltk_data"))
 nltk.download('punkt')
