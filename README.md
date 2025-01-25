@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # ChatBot using NLP By [Sibsankar](https://www.linkedin.com/in/sibsankarsamal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-=======
-<<<<<<< HEAD
+======
 
 ## Overview
 This project creates a chatbot using Natural Language Processing (NLP) methods. The chatbot is built to recognize user intents and generate relevant responses based on predefined patterns. It leverages the `nltk` library for processing natural language, `scikit-learn` for machine learning, and `streamlit` to develop an interactive web interface.
